@@ -1,49 +1,49 @@
 .pagination button {
   padding: 5px 3px;
-  font-weight:700;
+  font-weight: 700;
 }
 
-.pagination *{
-    margin-right: 7px;
+.pagination * {
+  margin-right: 7px;
 }
 
-.stretch{
-    background-color: green;
-    color: white;
-    padding: 8px 10px;
-    border: none;
-    font-size: 18px;
-    transition: padding 0.5s;
+.stretch {
+  background-color: green;
+  color: white;
+  padding: 8px 10px;
+  border: none;
+  font-size: 18px;
+  transition: padding 0.5s;
 }
 
-.stretch:hover{
-    padding: 20px 40px;
+.stretch:hover {
+  padding: 20px 40px;
 }
 
-.click{
-    background-color: green;
-    color: white;
-    border: none;
-    padding: 8px 10px;
-    font-size: 18px;
+.click {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 8px 10px;
+  font-size: 18px;
 }
 
-.click:active{
-    margin-top: 8px;
-    margin-left: 8px;
+.click:active {
+  margin-top: 8px;
+  margin-left: 8px;
 }
 
-.marg-pad{
-    background-color: green;
-    color: white;
-    font-size: 16px;
-    padding: 5px 20px;
-    border: none;
-    margin: 6px;
-    transition: padding 0.5s;
+.marg-pad {
+  background-color: green;
+  color: white;
+  font-size: 16px;
+  padding: 5px 20px;
+  border: none;
+  margin: 6px;
+  transition: padding 0.5s;
 }
 
-.marg-pad:hover{
-    padding-right: 40px;
-    padding-left: 40px;
+.marg-pad:hover {
+  padding-right: 40px;
+  padding-left: 40px;
 }
