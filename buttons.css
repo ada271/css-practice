@@ -1,7 +1,18 @@
-button {
+.youtube{
     background-color: rgb(184, 8, 8);
     color: white;
     border: none;
     padding: 10px;
     border-radius: 3px;
+    cursor: pointer;
+}
+
+.join{
+    height: 35px;
+    width: 60px;
+    border-color: rgb(64, 166, 235);
+    color: rgb(64, 166, 235);
+    background-color: white;
+    border-radius: 3px;
+    border-width: 1px;
 }
