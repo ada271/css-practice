@@ -1,0 +1,90 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.macbook{
+    text-align: center;
+}
+.macbook .head{
+    color: coral;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.macbook .product{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.macbook .slogan {
+    font-size: 50px;
+    margin-top: 10px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.macbook .price{
+    margin-top: 15px;
+}
+
+.macbook button{
+    background-color: rgb(30, 132, 248);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    font-size: 18px;
+    transition: opacity 0.2s;
+}
+
+.macbook button:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+.borsa .current{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.current span{
+    font-size: 14px;
+    color: rgb(71, 71, 71);
+}
+
+.borsa .today{
+    color: green;
+    font-size: 16px;
+    font-weight: 550;
+}
+
+.borsa .after-hours{
+    color: rgb(71, 71, 71);
+    font-weight: 550;    
+}
+
+.borsa .decrease{
+    color: red;
+}
+
+.borsa{
+    text-align: center;
+}
+
+.freeCC{
+    font-size: 20px;
+}
+
+.freeCC .contact{
+    font-weight: 600;
+}
+
+.freeCC .adress{
+    color: rgb(71, 71, 71);
+    margin-left: 5px;
+}
+
+.freeCC span{
+    color: rgb(30, 132, 248);
+}    
