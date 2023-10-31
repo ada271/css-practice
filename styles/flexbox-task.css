@@ -1,0 +1,51 @@
+.flexbox {
+  padding: 10px 15px;
+  width: 400px;
+  border: solid;
+  border-radius: 4px;
+  border-color: rgb(110, 110, 110);
+  border-width: 1px;
+  box-shadow: 3px 3px 3px rgba(255, 255, 255, 0.3);
+}
+
+.info-box {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.profile-pic img {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+}
+
+.email-content {
+  flex: 1;
+  margin-left: 4px;
+}
+
+.email-header {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
+
+.sender-name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.send-time {
+  font-size: 14px;
+  color: rgb(120, 120, 120);
+}
+
+.subject {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.message {
+  color: rgb(110, 110, 110);
+}
